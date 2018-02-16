@@ -1,2 +1,2 @@
 # selbercoden
-Repository for selber-coden.de
+Repository for http://selber-coden.de
